@@ -1,0 +1,56 @@
+[
+  {
+    "base_url": "https://download.quranicaudio.com/quran/",
+    "padding_surah_number": null,
+    "padding_ayah_number": 3,
+    "source": "quranicaudio.com",
+    "separator": null,
+    "type": "surah",
+    "extension": ".mp3",
+    "reciters": [
+      {
+        "reciter_name": "Mishari Rasyid Alafasy",
+        "end_point": "mishaari_raashid_al_3afaasee",
+        "photo_url": null,
+        "country": null,
+        "biography": null
+      }
+    ]
+  },
+  {
+    "base_url": "https://media.blubrry.com/muslim_central_quran/podcasts.qurancentral.com/",
+    "padding_surah_number": null,
+    "padding_ayah_number": 3,
+    "source": "qurancentral.com",
+    "separator": "-----",
+    "type": "surah",
+    "extension": ".mp3",
+    "reciters": [
+      {
+        "reciter_name": "Abu Bakar al-Shatri",
+        "end_point": "abu-bakr-al-shatri/abu-bakr-al-shatri",
+        "photo_url": "https://qurancentral.com/wp-content/uploads/abu-bakr-al-shatri-300x300.jpg",
+        "country": "Arab Saudi",
+        "biography": "Abu Bakar al-Shatri lahir pada tahun 1970 di Jeddah (Arab Saudi), Abu Bakar Ibn Mohamed Al Shatri (juga disebut Abi Abdarrahmane) adalah seorang Imam Saudi yang terkenal dan seorang qari Alquran par excellence.\n\nDengan ketekunan, ia menamatkan Alquran dari Syekh Aymane Rochdi Suwaid pada tahun 1996.\n\nAbu Bakr Al Shatri memiliki hak istimewa untuk memimpin sholat di banyak Masjid Saudi seperti Al Rajihi, Said Ibn Jubair (Kandara), Abdullatif Jamil, Attakwa (Al Rawda), AChouiaibi (Assalama).\n\nDia telah menjadi bagian dari banyak konferensi dan acara Islam di banyak negara Islam seperti Mesir, Maroko, Afrika Selatan, Kuwait, dan Bahrain.\n\nDia saat ini menjadi Imam Masjid Al Furkane di Hay Annassim, Jeddah."
+      }
+    ]
+  },
+  {
+    "base_url": "https://everyayah.com/data/",
+    "padding_surah_number": 3,
+    "padding_ayah_number": 3,
+    "source": "everyayah.com",
+    "separator": null,
+    "type": "ayah",
+    "extension": ".mp3",
+    "reciters": [
+      {
+        "reciter_name": "Abu Bakar al-Shatri",
+        "end_point": "Abu_Bakr_Ash-Shaatree_128kbps",
+        "photo_url": "https://qurancentral.com/wp-content/uploads/abu-bakr-al-shatri-300x300.jpg",
+        "country": "Arab Saudi",
+        "biography": "Abu Bakar al-Shatri lahir pada tahun 1970 di Jeddah (Arab Saudi), Abu Bakar Ibn Mohamed Al Shatri (juga disebut Abi Abdarrahmane) adalah seorang Imam Saudi yang terkenal dan seorang qari Alquran par excellence.\n\nDengan ketekunan, ia menamatkan Alquran dari Syekh Aymane Rochdi Suwaid pada tahun 1996.\n\nAbu Bakr Al Shatri memiliki hak istimewa untuk memimpin sholat di banyak Masjid Saudi seperti Al Rajihi, Said Ibn Jubair (Kandara), Abdullatif Jamil, Attakwa (Al Rawda), AChouiaibi (Assalama).\n\nDia telah menjadi bagian dari banyak konferensi dan acara Islam di banyak negara Islam seperti Mesir, Maroko, Afrika Selatan, Kuwait, dan Bahrain.\n\nDia saat ini menjadi Imam Masjid Al Furkane di Hay Annassim, Jeddah."
+      }
+    ]
+  }
+]
