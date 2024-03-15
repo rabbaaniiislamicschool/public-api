@@ -1,8 +1,8 @@
 [
   {
     "base_url": "https://download.quranicaudio.com/quran/",
-    "padding_surah_number": null,
-    "padding_ayah_number": 3,
+    "padding_surah_number": 3,
+    "padding_ayah_number": null,
     "source": "quranicaudio.com",
     "separator": null,
     "type": "surah",
@@ -26,8 +26,8 @@
   },
   {
     "base_url": "https://media.blubrry.com/muslim_central_quran/podcasts.qurancentral.com/",
-    "padding_surah_number": null,
-    "padding_ayah_number": 3,
+    "padding_surah_number": 3,
+    "padding_ayah_number": null,
     "source": "qurancentral.com",
     "separator": "-----",
     "type": "surah",
